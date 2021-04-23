@@ -1,0 +1,2 @@
+# StaticCommerce
+Created with CodeSandbox
